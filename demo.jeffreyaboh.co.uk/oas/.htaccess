@@ -1,0 +1,20 @@
+
+RewriteOptions inherit
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+<IfModule fcgid_module>
+    <IfModule mime_module>
+        AddHandler fcgid-script .php .php5 .phtml
+        FcgidWrapper /usr/local/cpanel/cgi-sys/ea-php56 .php
+        FcgidWrapper /usr/local/cpanel/cgi-sys/ea-php56 .php5
+        FcgidWrapper /usr/local/cpanel/cgi-sys/ea-php56 .phtml
+    </IfModule>
+</IfModule>
+
+# php -- END cPanel-generated handler, do not edit

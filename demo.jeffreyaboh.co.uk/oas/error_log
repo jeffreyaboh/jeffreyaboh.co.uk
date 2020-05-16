@@ -1,0 +1,16 @@
+[16-Feb-2020 21:10:59 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'adsproco_root'@'two.qservers.net' to database 'adsproco_oas' in /home/adsproco/demo.jeffreyaboh.co.uk/oas/index.php on line 4
+[16-Feb-2020 21:13:01 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'adsproco_root'@'two.qservers.net' to database 'adsproco_oas' in /home/adsproco/demo.jeffreyaboh.co.uk/oas/index.php on line 4
+[16-Feb-2020 21:13:31 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'adsproco_root'@'two.qservers.net' to database 'adsproco_oas' in /home/adsproco/demo.jeffreyaboh.co.uk/oas/index.php on line 4
+[16-Feb-2020 21:13:31 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/index.php on line 18
+[16-Feb-2020 21:13:31 Africa/Lagos] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/index.php on line 19
+[16-Feb-2020 21:13:31 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/index.php on line 20
+[16-Feb-2020 21:13:31 Africa/Lagos] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/index.php on line 21
+[21-Apr-2020 15:04:38 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 60
+[21-Apr-2020 15:04:38 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 61
+[21-Apr-2020 15:04:38 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 62
+[29-Apr-2020 01:18:34 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 60
+[29-Apr-2020 01:18:34 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 61
+[29-Apr-2020 01:18:34 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 62
+[29-Apr-2020 01:19:21 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 60
+[29-Apr-2020 01:19:21 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 61
+[29-Apr-2020 01:19:21 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/adsproco/demo.jeffreyaboh.co.uk/oas/signupconfirm.php on line 62
